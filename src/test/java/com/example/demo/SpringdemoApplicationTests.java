@@ -12,5 +12,12 @@ class SpringdemoApplicationTests {
 	void contextLoads() {
 		assertTrue(true);
 	}
+	
+	@Test
+	void contextLoads1() {
+		assertTrue(true);
+	}
+	
+	
 
 }
